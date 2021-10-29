@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+header{
+    font-size: 30px;
+    color: rgb(34, 90, 163);
+}
+
+main{
+    font-size: 20px;
+}
+
+#btnCalcular  { 
+    background-color: rgb(174, 222, 250);
+    border: rgb(227, 254, 255);
+    font-size: 17px;
+  color: black; 
+} 
+ 
+#btnCalcular a {
+    color: black;
+}
+#btnCalcular:hover  { 
+  padding: 10px; 
+  background: rgb(27, 91, 139); 
+  color: white; 
+
+} 
+
+.tabla{
+    margin: 4%;
+}
+
+div.galeria{
+    box-shadow: 1px 1px 1px 1px rgb(198, 230, 252);
+}
+
+.galeria img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
