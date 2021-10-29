@@ -18,17 +18,17 @@ main{
     font-size: 20px;
 }
 
-#btnCalcular  { 
+#calcular  { 
     background-color: rgb(174, 222, 250);
     border: rgb(227, 254, 255);
     font-size: 17px;
   color: black; 
 } 
  
-#btnCalcular a {
+#calcular a {
     color: black;
 }
-#btnCalcular:hover  { 
+#calcular:hover  { 
   padding: 10px; 
   background: rgb(27, 91, 139); 
   color: white; 

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+#btnCalcular  { 
+    background-color: rgb(174, 222, 250);
+    border: rgb(227, 254, 255);
+    font-size: 17px;
+  color: black; 
+} 
+ 
+#btnCalcular a {
+    color: black;
+}
+
+#btnConfirmar  { 
+    background-color: rgb(174, 222, 250);
+    border: rgb(227, 254, 255);
+    font-size: 17px;
+  color: black; 
+} 
+ 
+#btnConfirmar a {
+    color: black;
+}
