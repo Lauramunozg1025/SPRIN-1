@@ -7,6 +7,10 @@
 
 body{
     font-family: 'Mulish', sans-serif;
+    background-image: url(https://pbs.twimg.com/media/FC5dolbWQAEH0W1?format=png&name=small);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: center;
 }
 
 #btnCalcular  { 
@@ -29,4 +33,14 @@ body{
  
 #btnConfirmar a {
     color: black;
+}
+
+fieldset{
+    font-size: 20px;
+    width: 30%;
+    margin: 5%;
+    border-color: rgb(41, 118, 163);
+    border-style: dotted;
+    border-radius: 10pt;
+    background-color: rgba(194, 241, 255, 0.692);  
 }

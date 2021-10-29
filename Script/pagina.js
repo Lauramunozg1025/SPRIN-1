@@ -8,4 +8,6 @@ function Calcular() {
     cantidad = document.getElementById('cantidad').value;
     boton = document.getElementById('calcular');
 
+
+
 }

@@ -7,6 +7,10 @@
 
 body{
     font-family: 'Mulish', sans-serif;
+    background-image: url(https://pbs.twimg.com/media/FC5dolbWQAEH0W1?format=png&name=small);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    
 }
 
 header{
