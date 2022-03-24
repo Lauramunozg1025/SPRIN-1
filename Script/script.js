@@ -56,5 +56,5 @@ boton.addEventListener('click', () => {
 confirmar = document.getElementById('btnConfirmar');
 
 confirmar.addEventListener('click', () =>{
-    window.alert("Su pedido fue realizado");
+    window.alert("Su pedido fue realizado, gracias por su compra");
 })

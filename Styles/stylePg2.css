@@ -29,15 +29,17 @@ body{
     border: rgb(227, 254, 255);
     font-size: 17px;
   color: black; 
+  cursor: pointer;
 } 
  
 #btnConfirmar a {
     color: black;
+    
 }
 
 fieldset{
     font-size: 20px;
-    width: 30%;
+    width: 40%;
     margin: 5%;
     border-color: rgb(41, 118, 163);
     border-style: dotted;
